@@ -1,0 +1,1 @@
+Paradigma funcional: Damos uma regra, uma declaração de como queremos que o programa se comporte

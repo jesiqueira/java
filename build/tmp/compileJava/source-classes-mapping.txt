@@ -26,21 +26,25 @@ part03/heranca_polimorfismo/Funcionario.java
  part03.heranca_polimorfismo.Funcionario
 part01/paradigma/oo/ExemploCarro.java
  part01.paradigma.oo.ExemploCarro
-part05/calendar/Exemplo001.java
- part05.calendar.Exemplo001
-part05/calendar/Exemplo002.java
- part05.calendar.Exemplo002
+part07/localDate/ExemploLocalTimes001.java
+ part07.localDate.ExemploLocalTimes001
 part06/dataFormat/Exemplo001.java
  part06.dataFormat.Exemplo001
-part06/dataFormat/Exemplo002.java
- part06.dataFormat.Exemplo002
+part05/calendar/Exemplo002.java
+ part05.calendar.Exemplo002
+part07/localDate/ExemploLocalTimes003.java
+ part07.localDate.ExemploLocalTimes003
+part05/calendar/Exemplo001.java
+ part05.calendar.Exemplo001
 part07/localDate/Exemplo001.java
  part07.localDate.Exemplo001
 part07/localDate/Exemplo002.java
  part07.localDate.Exemplo002
-part07/localDate/ExemploLocalTimes001.java
- part07.localDate.ExemploLocalTimes001
 part07/localDate/ExemploLocalTimes002.java
  part07.localDate.ExemploLocalTimes002
-part07/localDate/ExemploLocalTimes003.java
- part07.localDate.ExemploLocalTimes003
+part06/dataFormat/Exemplo002.java
+ part06.dataFormat.Exemplo002
+part08/paradigmas/funcional/Exemplo01.java
+ part08.paradigmas.funcional.Exemplo01
+part08/paradigmas/funcional/Exemplo02.java
+ part08.paradigmas.funcional.Exemplo02

@@ -1,0 +1,1 @@
+o programa é executado linha a linha, o compitalado interpreta e executa
