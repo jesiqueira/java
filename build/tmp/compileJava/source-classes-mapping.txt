@@ -48,3 +48,6 @@ part08/paradigmas/funcional/Exemplo01.java
  part08.paradigmas.funcional.Exemplo01
 part08/paradigmas/funcional/Exemplo02.java
  part08.paradigmas.funcional.Exemplo02
+part08/paradigmas/funcional/FuncaoAltaOrdem001.java
+ part08.paradigmas.funcional.Calculo
+ part08.paradigmas.funcional.FuncaoAltaOrdem001
